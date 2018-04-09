@@ -1,6 +1,6 @@
 # Order Food
 <p align="center">
-  <img src="http://chupanhsanpham.esy.es/phat-dong-cuoc-thi-anh-voi-chu-de-uit-my-dream/"/>
+  <img src="http://portal.uit.edu.vn/Styles/profi/images/logo186x150.png"/>
 </p>
 Ứng dụng cho phép nhân viên quản lý công việc gọi món ăn của khách hang khi khách hàng gọi món ở một bàn mình ngồi. Ứng dụng được phát triển cho các cửa hàng tư nhân có quy mô vừa và nhỏ.
 
