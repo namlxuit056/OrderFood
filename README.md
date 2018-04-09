@@ -2,12 +2,14 @@
 
 Ứng dụng cho phép nhân viên quản lý công việc gọi món ăn của khách hang khi khách hàng gọi món ở một bàn mình ngồi. Ứng dụng được phát triển cho các cửa hàng tư nhân có quy mô vừa và nhỏ.
 
-# EXECUTIVE SUMMAR
+## Getting Started 
+
+### EXECUTIVE SUMMAR
 
 Ứng dụng cho phép nhân viên quản lý công việc gọi món ăn của khách hang khi khách hàng gọi món ở một bàn mình ngồi. Ứng dụng được phát triển cho các cửa hàng tư nhân có quy mô vừa và nhỏ.
 
 Đặt món ăn, quản lý thực đơn, Thanh toán, Báo cao doanh thu, Quản lý phục vụ
-## Quản lý phục vụ: 
+#### Quản lý phục vụ: 
 ```		
 Gọp bàn
 
@@ -21,7 +23,7 @@ Gọi thêm món
 
 ```	
 
-## Quản lý Thanh toán:
+#### Quản lý Thanh toán:
 ```	
 Lập hóa đơn 
 
@@ -30,7 +32,7 @@ Lập hóa đơn
 In Hoán đơn
 
 ```
-## Quản lý thực đơn:
+#### Quản lý thực đơn:
 ```
 	Thêm Sửa Xóa sản phẩm
 ```
