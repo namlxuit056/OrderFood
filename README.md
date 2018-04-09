@@ -1,5 +1,7 @@
 # Order Food
-![alt text](http://chupanhsanpham.esy.es/phat-dong-cuoc-thi-anh-voi-chu-de-uit-my-dream/)
+<p align="center">
+  <img src="http://chupanhsanpham.esy.es/phat-dong-cuoc-thi-anh-voi-chu-de-uit-my-dream/"/>
+</p>
 Ứng dụng cho phép nhân viên quản lý công việc gọi món ăn của khách hang khi khách hàng gọi món ở một bàn mình ngồi. Ứng dụng được phát triển cho các cửa hàng tư nhân có quy mô vừa và nhỏ.
 
 ## Getting Started 
