@@ -1,21 +1,100 @@
-# OrderFood
-# EXECUTIVESUMMAR
+# Order Food
+
+Ứng dụng cho phép nhân viên quản lý công việc gọi món ăn của khách hang khi khách hàng gọi món ở một bàn mình ngồi. Ứng dụng được phát triển cho các cửa hàng tư nhân có quy mô vừa và nhỏ.
+
+# EXECUTIVE SUMMAR
+
 Ứng dụng cho phép nhân viên quản lý công việc gọi món ăn của khách hang khi khách hàng gọi món ở một bàn mình ngồi. Ứng dụng được phát triển cho các cửa hàng tư nhân có quy mô vừa và nhỏ.
 
 Đặt món ăn, quản lý thực đơn, Thanh toán, Báo cao doanh thu, Quản lý phục vụ
-Quản lý phục vụ: 
-•	Gọp bàn
-•	Chuyển bàn
-•	Gọi thêm món
+## Quản lý phục vụ: 
+
+### Gọp bàn
+### Chuyển bàn
+### Gọi thêm món
 Quản lý Thanh toán:
 •	Lập hóa đơn 
 •	In Hoán đơn
 Quản lý thực đơn:
 •	Thêm Sửa Xóa sản phẩm
-# BUSINESSOBJECTIVES
-Với lượng khách càng ngày càng tăng, để phục vụ khách được tốt hơn, chính xác hơn và nhanh chóng hơn thì chủ quán đang từng bước tin học hoá các khâu quản lí. Đặc biệt là trong công tác kế toán và quản lí hàng hoá, đồ uống.
-Giảm thiểu nhân viên , và tăng hiệu suất làm việc:
-•	Tiết kiệm nguồn nhân lực: Bạn không phải thuê quá nhiều nhân viên nữa. Vì phần mềm đã làm là một nhân viên đắc lực với giá “thuê” rẻ như bèo.
-•	Điều chỉnh nhân lực phù hợp: Báo cáo sẽ chỉ ra cho bạn giờ nào trong ngày có lượng khách đông hơn cũng như ít hơn. Điều này sẽ giúp bạn lên kế hoạch để thuê số lượng nhân viên theo ca khác nhau. Cũng như việc có thể xác định cơ hội bán hàng trong năm tới.
-•	Đẩy mạnh lợi thế của cửa hàng: Chắc hẳn việc xem báo cáo doanh số theo từng món hàng hóa đã chỉ ra món đồ uống nào được ưa thích nhất rồi. Bây giờ bạn chỉ cần loại bỏ hoặc tìm hiểu nguyên nhân những món không được ưa chuộng. Đó là vì vị nó không ngon, hay do giá của nó quá cao. Từ đó bạn có thể điều chỉnh menu của quán theo các xu hướng hợp lý hơn. Việc thay đổi menu một chút để tránh nhàm chán sẽ khiến khách hàng thân thiết của bạn cảm thấy thích thú.
-•	Đưa ra chiến lược phù hợp theo từng ngày: Việc theo dõi doanh thu từng ngày, từng tuần sẽ giúp bạn đưa ra các kế hoạch khác nhau. Một ví dụ như: Thường doanh số của bạn luôn thấp hơn vào tối thứ 4. Bạn có thể đưa ra một vài chương trình khuyến mại theo món, hoặc theo nhóm khách hàng. Ngoài ra, bạn cũng có thể thuê người chơi nhạc vào ngày cuối tuần. Điều này sẽ giúp giữ chân những khách hàng mới cũng như khách hàng quen thuộc. Báo cáo của phần mềm quản lý quán cà phê.
+
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
