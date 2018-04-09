@@ -1,5 +1,5 @@
 # OrderFood
-#EXECUTIVE SUMMAR
+# EXECUTIVE SUMMAR
 Ứng dụng cho phép nhân viên quản lý công việc gọi món ăn của khách hang khi khách hàng gọi món ở một bàn mình ngồi. Ứng dụng được phát triển cho các cửa hàng tư nhân có quy mô vừa và nhỏ.
 
 Đặt món ăn, quản lý thực đơn, Thanh toán, Báo cao doanh thu, Quản lý phục vụ
@@ -12,7 +12,7 @@ Quản lý Thanh toán:
 •	In Hoán đơn
 Quản lý thực đơn:
 •	Thêm Sửa Xóa sản phẩm
-#BUSINESS OBJECTIVES
+# BUSINESS OBJECTIVES
 Với lượng khách càng ngày càng tăng, để phục vụ khách được tốt hơn, chính xác hơn và nhanh chóng hơn thì chủ quán đang từng bước tin học hoá các khâu quản lí. Đặc biệt là trong công tác kế toán và quản lí hàng hoá, đồ uống.
 Giảm thiểu nhân viên , và tăng hiệu suất làm việc:
 •	Tiết kiệm nguồn nhân lực: Bạn không phải thuê quá nhiều nhân viên nữa. Vì phần mềm đã làm là một nhân viên đắc lực với giá “thuê” rẻ như bèo.
